@@ -2,13 +2,20 @@ PROJECT:-
 #API MASHUP TO GET MOVIES RECOMMENDIATION
 
 This project is  through the process of mashing up data from two different APIs to make movie recommendations.
+
 (i) TasteDive API
+
 (ii)OMDB API
+
 TasteDive API & OMDB API
-****The TasteDive API lets you provide a movie as a query input, and returns a set of related items.  
+
+****The TasteDive API lets you provide a movie as a query input, and returns a set of related items.
+
 ****The OMDB API let us provide a movie title as a query input and get back data about the movie, including scores from various review sites (Rotten Tomatoes, IMDB, etc.).
 Working Methodology:
+
 This project involves following steps( basically these steps are  functions on implementation) : 
+
 
 (01)-get_movies_from_tastedive
 (02)-Extract_movie_titles
